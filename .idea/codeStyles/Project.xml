@@ -1,0 +1,231 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="LINE_SEPARATOR" value="&#10;" />
+    <option name="FORMATTER_TAGS_ENABLED" value="true" />
+    <option name="SOFT_MARGINS" value="110,120,130" />
+    <DB2CodeStyleSettings version="6">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="QUERY_EL_COMMA" value="2" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="1" />
+      <option name="INSERT_VALUES_EL_LINE" value="1" />
+      <option name="INSERT_EL_WRAP" value="0" />
+      <option name="INSERT_EL_COMMA" value="2" />
+    </DB2CodeStyleSettings>
+    <DerbyCodeStyleSettings version="6">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="QUERY_EL_COMMA" value="2" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="1" />
+      <option name="INSERT_VALUES_EL_LINE" value="1" />
+      <option name="INSERT_EL_WRAP" value="0" />
+      <option name="INSERT_EL_COMMA" value="2" />
+    </DerbyCodeStyleSettings>
+    <H2CodeStyleSettings version="6">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="QUERY_EL_COMMA" value="2" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="1" />
+      <option name="INSERT_VALUES_EL_LINE" value="1" />
+      <option name="INSERT_EL_WRAP" value="0" />
+      <option name="INSERT_EL_COMMA" value="2" />
+    </H2CodeStyleSettings>
+    <H2CodeStyleSettings version="6">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="QUERY_EL_COMMA" value="2" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="1" />
+      <option name="INSERT_VALUES_EL_LINE" value="1" />
+      <option name="INSERT_EL_WRAP" value="0" />
+      <option name="INSERT_EL_COMMA" value="2" />
+    </H2CodeStyleSettings>
+    <HSQLCodeStyleSettings version="6">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="QUERY_EL_COMMA" value="2" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="1" />
+      <option name="INSERT_VALUES_EL_LINE" value="1" />
+      <option name="INSERT_EL_WRAP" value="0" />
+      <option name="INSERT_EL_COMMA" value="2" />
+    </HSQLCodeStyleSettings>
+    <HTMLCodeStyleSettings>
+      <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    </HTMLCodeStyleSettings>
+    <JSCodeStyleSettings version="0">
+      <option name="FORCE_SEMICOLON_STYLE" value="true" />
+      <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+      <option name="FORCE_QUOTE_STYlE" value="true" />
+      <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+      <option name="JSX_ATTRIBUTE_VALUE" value="Quotes" />
+      <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    </JSCodeStyleSettings>
+    <JavaCodeStyleSettings>
+      <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
+      <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="20" />
+      <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="10" />
+      <option name="IMPORT_LAYOUT_TABLE">
+        <value>
+          <package name="java" withSubpackages="true" static="false" />
+          <package name="javax" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="br.com" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="" withSubpackages="true" static="true" />
+        </value>
+      </option>
+      <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
+      <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
+      <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
+    </JavaCodeStyleSettings>
+    <JetCodeStyleSettings>
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </JetCodeStyleSettings>
+    <MSSQLCodeStyleSettings version="6">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="QUERY_EL_COMMA" value="2" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="1" />
+      <option name="INSERT_VALUES_EL_LINE" value="1" />
+      <option name="INSERT_EL_WRAP" value="0" />
+      <option name="INSERT_EL_COMMA" value="2" />
+    </MSSQLCodeStyleSettings>
+    <MySQLCodeStyleSettings version="6">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="QUERY_EL_COMMA" value="2" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="1" />
+      <option name="INSERT_VALUES_EL_LINE" value="1" />
+      <option name="INSERT_EL_WRAP" value="0" />
+      <option name="INSERT_EL_COMMA" value="2" />
+    </MySQLCodeStyleSettings>
+    <OracleCodeStyleSettings version="6">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="QUERY_EL_COMMA" value="2" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="1" />
+      <option name="INSERT_VALUES_EL_LINE" value="1" />
+      <option name="INSERT_EL_WRAP" value="0" />
+      <option name="INSERT_EL_COMMA" value="2" />
+    </OracleCodeStyleSettings>
+    <PostgresCodeStyleSettings version="6">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="QUERY_EL_COMMA" value="2" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="1" />
+      <option name="INSERT_VALUES_EL_LINE" value="1" />
+      <option name="INSERT_EL_WRAP" value="0" />
+      <option name="INSERT_EL_COMMA" value="2" />
+    </PostgresCodeStyleSettings>
+    <Python>
+      <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
+    </Python>
+    <SQLiteCodeStyleSettings version="6">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="QUERY_EL_COMMA" value="2" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="1" />
+      <option name="INSERT_VALUES_EL_LINE" value="1" />
+      <option name="INSERT_EL_WRAP" value="0" />
+      <option name="INSERT_EL_COMMA" value="2" />
+    </SQLiteCodeStyleSettings>
+    <SqlCodeStyleSettings version="6">
+      <option name="QUERY_EL_COMMA" value="2" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="1" />
+      <option name="INSERT_VALUES_EL_LINE" value="1" />
+      <option name="INSERT_EL_WRAP" value="0" />
+      <option name="INSERT_EL_COMMA" value="2" />
+    </SqlCodeStyleSettings>
+    <SybaseCodeStyleSettings version="6">
+      <option name="USE_GENERAL_STYLE" value="false" />
+      <option name="QUERY_EL_COMMA" value="2" />
+      <option name="INSERT_INTO_NL" value="2" />
+      <option name="INSERT_TABLE_EL_LINE" value="1" />
+      <option name="INSERT_VALUES_EL_LINE" value="1" />
+      <option name="INSERT_EL_WRAP" value="0" />
+      <option name="INSERT_EL_COMMA" value="2" />
+    </SybaseCodeStyleSettings>
+    <TypeScriptCodeStyleSettings version="0">
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+      <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    </TypeScriptCodeStyleSettings>
+    <XML>
+      <option name="XML_ATTRIBUTE_WRAP" value="0" />
+      <option name="XML_TEXT_WRAP" value="0" />
+    </XML>
+    <editorconfig>
+      <option name="ENABLED" value="false" />
+    </editorconfig>
+    <codeStyleSettings language="DB2">
+      <option name="KEEP_LINE_BREAKS" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="Derby">
+      <option name="KEEP_LINE_BREAKS" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="H2">
+      <option name="KEEP_LINE_BREAKS" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="HSQLDB">
+      <option name="KEEP_LINE_BREAKS" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+      <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+      <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+      <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+      <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+      <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
+      <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
+      <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+      <indentOptions>
+        <option name="SMART_TABS" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="JSON">
+      <indentOptions>
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="JavaScript">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="MySQL">
+      <option name="KEEP_LINE_BREAKS" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="Oracle">
+      <option name="KEEP_LINE_BREAKS" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="PostgreSQL">
+      <option name="KEEP_LINE_BREAKS" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="SQL">
+      <option name="KEEP_LINE_BREAKS" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="SQLite">
+      <option name="KEEP_LINE_BREAKS" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="Sybase">
+      <option name="KEEP_LINE_BREAKS" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="TSQL">
+      <option name="KEEP_LINE_BREAKS" value="false" />
+    </codeStyleSettings>
+    <codeStyleSettings language="TypeScript">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="kotlin">
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
