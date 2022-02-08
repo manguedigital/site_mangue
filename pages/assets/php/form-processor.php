@@ -7,9 +7,9 @@
 		$to 		= $_POST['to'];
 		unset($_POST['to']);
 
-		$from		= "user@domain.com";
+		$from		= "hello@mangue.digital";
 		$name		= "Website User";
-		$subject	= "New Email from My Website";
+		$subject	= "Novo email do Website";
 		$reCaptchaSecret = "6Lcd9-0UAAAAAGsl6Xdi3Wa_oSC-eQsUvkOBBIqF";
 
 
