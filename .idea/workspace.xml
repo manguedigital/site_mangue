@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f45dbc59-b7f2-4d47-9677-d103068fb852" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/assets/img/cashflex.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/assets/img/cashflexapp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/assets/img/clients/cashflex.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/assets/img/clients/vobys.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/assets/img/logo/manguelogo.gif" afterDir="false" />
+    <list default="true" id="f45dbc59-b7f2-4d47-9677-d103068fb852" name="Changes" comment="Implementação completa.">
+      <change afterPath="$PROJECT_DIR$/pages/assets/img/vobys.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/assets/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/assets/css/theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/assets/css/theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/pages/assets/css/theme.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/assets/php/form-processor.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/assets/php/form-processor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +67,17 @@
       <workItem from="1643046951278" duration="9945000" />
       <workItem from="1643902072571" duration="9238000" />
       <workItem from="1644112490240" duration="1225000" />
-      <workItem from="1644184602030" duration="23030000" />
+      <workItem from="1644184602030" duration="23115000" />
+      <workItem from="1644334648934" duration="1760000" />
     </task>
+    <task id="LOCAL-00001" summary="Implementação completa.">
+      <created>1644299487160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644299487160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Implementação completa." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementação completa." />
   </component>
 </project>
