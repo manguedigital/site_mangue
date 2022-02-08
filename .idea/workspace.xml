@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f45dbc59-b7f2-4d47-9677-d103068fb852" name="Changes" comment="Implementação completa.">
-      <change afterPath="$PROJECT_DIR$/pages/assets/img/vobys.png" afterDir="false" />
+    <list default="true" id="f45dbc59-b7f2-4d47-9677-d103068fb852" name="Changes" comment="Ajustes na versão final do site.">
+      <change afterPath="$PROJECT_DIR$/.firebase/hosting.cGFnZXM.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/firebase-hosting-merge.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/firebase-hosting-pull-request.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
     </list>
@@ -68,7 +73,7 @@
       <workItem from="1643902072571" duration="9238000" />
       <workItem from="1644112490240" duration="1225000" />
       <workItem from="1644184602030" duration="23115000" />
-      <workItem from="1644334648934" duration="1760000" />
+      <workItem from="1644334648934" duration="3891000" />
     </task>
     <task id="LOCAL-00001" summary="Implementação completa.">
       <created>1644299487160</created>
@@ -77,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644299487160</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ajustes na versão final do site.">
+      <created>1644337720349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644337720349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Implementação completa." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementação completa." />
+    <MESSAGE value="Ajustes na versão final do site." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustes na versão final do site." />
   </component>
 </project>
