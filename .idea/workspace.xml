@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f45dbc59-b7f2-4d47-9677-d103068fb852" name="Changes" comment="Ajustes na versão final do site.">
-      <change afterPath="$PROJECT_DIR$/.firebase/hosting.cGFnZXM.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/firebase-hosting-merge.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/firebase-hosting-pull-request.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
+    <list default="true" id="d3c22a4f-df91-4d03-b55c-54125d1283ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/site_mangue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/assets/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/assets/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/assets/css/theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/pages/assets/css/theme.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/bootstrap/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,94 +27,34 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="249dtOdCXdNolFMz4iJh4lV2kWc" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2KRQB2qT3Ty8Zoe0z1CkPuBEAyL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/assets/img/favicons" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pages/assets/img/favicons" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Server Mangue" type="js.build_tools.gulp">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
-      <tasks />
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/lucas/Projects/site_mangue",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f45dbc59-b7f2-4d47-9677-d103068fb852" name="Changes" comment="" />
-      <created>1643046949916</created>
+      <changelist id="d3c22a4f-df91-4d03-b55c-54125d1283ba" name="Changes" comment="" />
+      <created>1673934776885</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1643046949916</updated>
-      <workItem from="1643046951278" duration="9945000" />
-      <workItem from="1643902072571" duration="9238000" />
-      <workItem from="1644112490240" duration="1225000" />
-      <workItem from="1644184602030" duration="23115000" />
-      <workItem from="1644334648934" duration="3891000" />
+      <updated>1673934776885</updated>
+      <workItem from="1673934779554" duration="140000" />
     </task>
-    <task id="LOCAL-00001" summary="Implementação completa.">
-      <created>1644299487160</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1644299487160</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Ajustes na versão final do site.">
-      <created>1644337720349</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1644337720349</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Implementação completa." />
-    <MESSAGE value="Ajustes na versão final do site." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajustes na versão final do site." />
   </component>
 </project>
